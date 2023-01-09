@@ -10,5 +10,9 @@ Created: 2023-01-08
 - New York City
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+- Data provided by Udacity
+  - https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+- Heavy use of Pandas
+  - https://pandas.pydata.org/docs/
+- To incoroprate functionality like Scala's `.flatten()`
+  - https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists/952952#952952
