@@ -192,7 +192,7 @@ def time_stats(df):
         print("Error collecting frequency stats. Moving on.\n")
         print(f"Unexpected {err=}, {type(err)=}")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format(time.time() - start_time))
     print('-' * 40)
 
 
@@ -218,7 +218,7 @@ def station_stats(df):
         print("Error collecting station stats. Moving on.\n")
         print(f"Unexpected {err=}, {type(err)=}")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format(time.time() - start_time))
     print('-' * 40)
 
 
@@ -240,7 +240,7 @@ def trip_duration_stats(df):
         print("Error collecting duration stats. Moving on.\n")
         print(f"Unexpected {err=}, {type(err)=}")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format(time.time() - start_time))
     print('-' * 40)
 
 
@@ -283,7 +283,7 @@ def user_stats(df):
     except Exception as err:
         print(f"Unexpected {err=}, {type(err)=}")
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took {} seconds.".format(time.time() - start_time))
     print('-' * 40)
 
 
