@@ -1,4 +1,5 @@
 # Bikeshare Data Analysis
+## Description
 Created: 2023-01-08
 - A project for the analysis of Bikeshare data
 - Includes options to breakdown by city and day of week
@@ -9,7 +10,7 @@ Created: 2023-01-08
 - Chicago
 - New York City
 
-### Credits
+## Credits
 - Data provided by Udacity
   - https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 - Heavy use of Pandas
