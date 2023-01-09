@@ -7,8 +7,8 @@ Created: 2023-01-08
 
 ## Available City Data
 - Washington, D.C.
-- Chicago
-- New York City
+- Chicago, IL
+- New York, NY
 
 ## Credits
 - Data provided of [Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
