@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bikeshare Data Analysis
+## Description
+Created: 2023-01-08
+- A project for the analysis of Bikeshare data
+- Includes options to breakdown by city and day of week
+- Various stats regarding duration, location, and user types
 
-### Date created
-Include the date you created this project and README file.
+## Available City Data
+- Washington, D.C.
+- Chicago, IL
+- New York, NY
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+## Credits
+- Data provided of [Udacity Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+- Heavy use of [Pandas](https://pandas.pydata.org/docs/)
+- To incoroprate functionality like Scala's `.flatten()`
+  - https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists/952952#952952
