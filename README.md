@@ -4,8 +4,10 @@ Created: 2023-01-08
 - Includes options to breakdown by city and day of week
 - Various stats regarding duration, location, and user types
 
-### Files used
-Include the files used
+## Available City Data
+- Washington, D.C.
+- Chicago
+- New York City
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
