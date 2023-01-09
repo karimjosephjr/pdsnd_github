@@ -6,8 +6,8 @@ CITY_DATA = {'Chicago': 'chicago.csv',
              'Washington': 'washington.csv'}
 
 CITIES = {'Chicago': ['1', 'chicago'],
-          'New York City': ['2', 'new york city', 'nyc'],
-          'Washington': ['3', 'washington', 'dc']}
+          'New York City': ['2', 'new york city', 'nyc', 'ny', 'new york'],
+          'Washington': ['3', 'washington', 'dc', 'd.c.']}
 
 MONTHS = {'All Months': ['0', 'all'],
           'January': ['1', 'jan'],
